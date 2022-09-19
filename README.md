@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 💫 About Me:
+## 💫 About Me:
 Hi! My name is Amit Singh Chouhan. Thank You for taking the time to view my GitHub Profile 😄<br><br><br>About Me <br><br>💬 Talk to me about JavaScript, React, Node, MongoDB, Data Structures and Algorithms
 
 
