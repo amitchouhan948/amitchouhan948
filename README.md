@@ -1,7 +1,7 @@
 ### Hi there 👋
+
 # 💫 About Me:
-[![img]https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067) 
-<br>https://camo.githubusercontent.com/416fad3b336f69aa7c422054f1dcc77fe57061fa2319cb31f78ccc62d9d01297/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d6b732d313030372e6b732d31303037<br><br><br>Hi! My name is Amit Singh Chouhan. Thank You for taking the time to view my GitHub Profile 😄<br><br><br>About Me <br><br>💬 Talk to me about JavaScript, React, Node, MongoDB, Data Structures and Algorithms
+Hi! My name is Amit Singh Chouhan. Thank You for taking the time to view my GitHub Profile 😄<br><br><br>About Me <br><br>💬 Talk to me about JavaScript, React, Node, MongoDB, Data Structures and Algorithms
 
 
 ## 🌐 Socials:
