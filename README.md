@@ -1,4 +1,4 @@
-<img width="100%"  object-fit="cover"  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="" />
+<img width="100%" height="400px"  object-fit="cover"  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="" />
 <h1 align="center">Hi 👋👏नमस्ते, I'm Amit Singh</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
