@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋👏नमस्ते, I'm Amit Singh</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
-## 💫 About Me:
+# 💫 About Me:
 Hi! My name is Amit Singh Chouhan. Thank You for taking the time to view my GitHub Profile 😄<br><br>🔭 I’m currently working on Front-End and Back-End Projects<br><br>🌱 I’m currently learning MongoDB, Express, Node <br><br>👨‍💻 All of my projects are available at https://amitchouhan948.github.io/ <br><br>💬 Talk to me about JavaScript, React, Node, MongoDB, Data Structures and Algorithms<br><br>📫 How to reach me amitchouhan948@gmail.com
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-singh-chouhan-b36a83224/) 
 
 # 💻 Tech Stack:
