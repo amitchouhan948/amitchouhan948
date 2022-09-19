@@ -3,7 +3,9 @@
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 ## 💫 About Me:
-Hi! My name is Amit Singh Chouhan. Thank You for taking the time to view my GitHub Profile 😄<br><br>💬 Talk to me about JavaScript, React, Node, MongoDB, Data Structures and Algorithms
+Hi! My name is Amit Singh Chouhan. Thank You for taking the time to view my GitHub Profile 😄<br><br>🔭 I’m currently working on Front-End and Back-End Projects<br><br>🌱 I’m currently learning MongoDB, Express, Node <br><br>👨‍💻 All of my projects are available at https://amitchouhan948.github.io/ <br><br>💬💬 Talk to me about JavaScript, React, Node, MongoDB, Data Structures and Algorithms<br><br>📫 How to reach me antaraburman888@gmail.com
+
+
 
 
 ## 🌐 Socials:
