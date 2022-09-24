@@ -1,6 +1,8 @@
-<img width="100%" height="300px"  object-fit="cover"  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="" />
 <h1 align="center">Hi 👋👏नमस्ते, I'm Amit Singh</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
+
+<img width="100%" height="300px"  object-fit="cover"  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="" />
+
 
 ## 💫 About Me:
 Hi! My name is Amit Singh Chouhan. Thank You for taking the time to view my GitHub Profile 😄<br><br>🔭 I’m currently working on Front-End and Back-End Projects<br><br>🌱 I’m currently learning MongoDB, Express, Node <br><br>👨‍💻 All of my projects are available at https://amitchouhan948.github.io/ <br><br>💬 Talk to me about JavaScript, React, Node, MongoDB, Data Structures and Algorithms<br><br>📫 How to reach me amitchouhan948@gmail.com
