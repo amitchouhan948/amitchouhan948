@@ -9,7 +9,7 @@ Hi! My name is Amit Singh Chouhan. Thank You for taking the time to view my GitH
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-singh-chouhan-b36a83224/) 
-[![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=white)](https://www.linkedin.com/in/amit-singh-chouhan-b36a83224/)
+[![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=white&bgColor=orange)](amitchouhan948@gmail.com)
 
 
 ## 💻 Tech Stack:
